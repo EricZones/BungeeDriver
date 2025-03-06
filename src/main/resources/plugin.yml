@@ -1,0 +1,5 @@
+main: de.ericzones.bungeedriver.BungeeDriver
+version: 1.0
+name: BungeeDriver
+author: EricZones
+commands:
