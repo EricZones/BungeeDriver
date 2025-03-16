@@ -20,9 +20,6 @@ BungeeDriver is a Minecraft plugin which establishes a connection between Minecr
 1. Move 'BungeeDriver-1.0-SNAPSHOT.jar' inside your minecraft servers plugin folder
 2. Start your Minecraft server
 
-## Contributors
-- **EricZones** - Developer
-
 ## Purpose
 The plugin was created for a Minecraft minigames network.
 It was originally developed in 2021 without git.
